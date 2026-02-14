@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "寝癖",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2026-02-14T15:45:17.768716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "寝癖 - Neguse",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/01_寝癖_-_Neguse_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "寝癖",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_寝癖_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "寝癖",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_寝癖_クリープハイプ.txt"
+    }
+  ]
+}
